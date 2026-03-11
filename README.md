@@ -33,4 +33,4 @@ You may request the deletion of your account and associated data at any time thr
 Unbottl is not intended for use by children under the age of 13.
 
 ## 7. Contact Us
-If you have questions about this Privacy Policy, please contact us at: [Your Email/Support URL]
+If you have questions about this Privacy Policy, please contact us at: [unbottl@refreege.app]
